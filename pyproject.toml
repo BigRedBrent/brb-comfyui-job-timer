@@ -1,6 +1,6 @@
 [project]
 name = "brb-comfyui-job-timer"
-version = "1.0.0"
+version = "0.0.0"
 description = "Shows how long the current ComfyUI job has been running and an estimate of the time left."
 license = { file = "LICENSE" }
 
